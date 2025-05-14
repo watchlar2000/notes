@@ -1,16 +1,3 @@
-Hotkey Function
-Ctrl + A Go to the beginning of the line
-Ctrl + E Go to the end of the line
-Ctrl + U Cut everything from the cursor back
-Ctrl + K Cut everything from cursor to end of line
-Ctrl + Y Paste the last cut
-Ctrl + R Reverse search through command history
-Ctrl + L Clear terminal (like clear)
-Ctrl + D Logout/exit terminal
-Alt + . Repeat last argument of previous command
-!! Run last command again
-!git Run last command that started with "git"
-
 # ZSH
 
 ~/.zshrc
