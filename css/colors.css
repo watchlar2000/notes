@@ -1,0 +1,10 @@
+.element {
+  /* New color spaces */
+  color: oklch(70% 0.15 340);
+
+  /* Color mixing */
+  background-color: color-mix(in oklch, var(--brand), black 20%);
+
+  /* Relative color manipulation */
+  border-color: color-mix(in oklch, var(--brand) 80%, white);
+}
